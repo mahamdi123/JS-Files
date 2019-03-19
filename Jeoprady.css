@@ -1,8 +1,12 @@
 body {
 	background-color:gold;
+	text-align:center;
 }
 
-
+h1 {
+	text-align:center;
+	color: green;
+}
 #a {
 	text-align:center;
 	font-family:arial;
@@ -10,15 +14,27 @@ body {
 	color:green;
 }
 
-
-.Q {
-	border: 1px solid black;
-	border-collapse: collapse;
+.b {
 	text-align:center;
-	font-family:arial;
-	font-size:100%;
-	background-color:green;
-	border-bottom-color:black;
-	border-top-color:black;
 	color:gold;
+	background-color:green;	
+	border: 2px solid black;
+}
+
+th, td  {
+	height: 30px;
+	width: 60px;
+}
+
+#FF {
+	text-align:center-bottom;
+	font-family:arial;
+	font-size:200%;
+	color:green;
+}
+div {
+	text-align:center;
+	color: green;
+	font-size: 200%;
+	
 }
